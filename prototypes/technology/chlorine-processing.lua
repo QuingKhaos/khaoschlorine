@@ -1,6 +1,6 @@
 local khaoslib_technology = require("__khaoslib__.prototypes.technology")
 
-khaoslib_technology:load {
+local tech = khaoslib_technology:load {
   type = "technology",
   name = "chlorine-processing",
   order = "b-b",
@@ -18,4 +18,10 @@ khaoslib_technology:load {
   :add_unlock_recipe("chlorine")
   :add_unlock_recipe("hydrogen-chloride")
   :add_unlock_recipe("hydrogen-chloride-salt")
-  :commit()
+
+if settings.startup["khaoschlorine-more"].value then
+  tech:add_unlock_recipe("ferric-chloride")
+    :add_unlock_recipe("ferric-chloride-hcl")
+end
+
+tech:commit()
