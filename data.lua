@@ -2,6 +2,7 @@ require("__khaoschlorine__.prototypes.entity.resources.salt")
 
 require("__khaoschlorine__.prototypes.fluid.chlorine")
 require("__khaoschlorine__.prototypes.fluid.hydrogen-chloride")
+require("__khaoschlorine__.prototypes.fluid.vinyl-chloride")
 
 require("__khaoschlorine__.prototypes.item.salt")
 require("__khaoschlorine__.prototypes.item.ferric-chloride")
@@ -12,6 +13,7 @@ require("__khaoschlorine__.prototypes.recipe.hydrogen-chloride")
 require("__khaoschlorine__.prototypes.recipe.hydrogen-chloride-salt")
 require("__khaoschlorine__.prototypes.recipe.ferric-chloride")
 require("__khaoschlorine__.prototypes.recipe.ferric-chloride-hcl")
+require("__khaoschlorine__.prototypes.recipe.vinyl-chloride")
 
 require("__khaoschlorine__.prototypes.technology.chlorine-processing")
 
