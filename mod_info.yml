@@ -1,10 +1,13 @@
 mod_info:
   title: |
-    ###TITLE###
+    Salt & Chlorine Revamped
   summary: |
-    ###DESC###
+    Adds salt, chlorine and more to the base game. Reworks advanced circuit production.
   description_file: README.md
   attach_source_link: true
   license: default_gnugplv3
-  category: internal
-  tags: []
+  category: content
+  tags:
+    - fluids
+    - manufacturing
+    - mining

@@ -1,16 +1,19 @@
 {
-  "name": "###NAME###",
-  "title": "###TITLE###",
-  "description": "###DESC###",
+  "name": "khaoschlorine",
+  "title": "Salt & Chlorine Revamped",
+  "description": "Adds salt, chlorine and more to the base game. Reworks advanced circuit production.",
   "author": "QuingKhaos",
   "homepage": "https://discord.gg/SYmkaDjFCt",
-  "version": "1.0.0",
-  "factorio_version": "2.0",
+  "version": "0.1.0",
+  "factorio_version": "2.1",
   "dependencies": [
-    "base >= 2.0.77",
+    "base >= 2.1.11",
+    "! space-age",
 
-    "khaosbash >= 1.2.0",
-    "khaoslib >= 1.19.0"
+    "khaoslib >= 2.2.0",
+
+    "! bzchlorine",
+    "! bzchlorine2"
   ],
   "package": {
     "ignore": [
