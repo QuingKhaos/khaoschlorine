@@ -4,8 +4,6 @@
 
 Adds salt, chlorine, and other compounds to the game. Changes advanced circuit production and several other things.
 
-With [Graphite & Diamonds](https://mods.factorio.com/mod/khaoscarbon), carbon fiber is enabled as well.
-
 ## Remarks
 
 This revamp drops support for overhaul mods completely. Adding recycler and/or quality mod should be possible. The focus lies at the moment to provide a consistent experience for the base game. Space Age support will be added in the future, as well as support for more modded planets.
