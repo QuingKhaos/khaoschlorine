@@ -7,6 +7,7 @@ require("__khaoschlorine__.prototypes.fluid.epoxy")
 
 require("__khaoschlorine__.prototypes.item.salt")
 require("__khaoschlorine__.prototypes.item.ferric-chloride")
+require("__khaoschlorine__.prototypes.item.pcb-substrate")
 
 require("__khaoschlorine__.prototypes.recipe.salt")
 require("__khaoschlorine__.prototypes.recipe.chlorine")
@@ -16,6 +17,7 @@ require("__khaoschlorine__.prototypes.recipe.ferric-chloride")
 require("__khaoschlorine__.prototypes.recipe.ferric-chloride-hcl")
 require("__khaoschlorine__.prototypes.recipe.vinyl-chloride")
 require("__khaoschlorine__.prototypes.recipe.epoxy")
+require("__khaoschlorine__.prototypes.recipe.pcb-substrate")
 
 require("__khaoschlorine__.prototypes.technology.chlorine-processing")
 
