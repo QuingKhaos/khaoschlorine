@@ -2,7 +2,7 @@
 
 # Salt & Chlorine Revamped
 
-Adds salt, chlorine, and other compounds to the game. Changes advanced circuit production and several other things.
+Adds salt, chlorine, and other compounds to the game. Changes advanced circuit production and several other things. With [Graphite & Diamonds](https://mods.factorio.com/mod/khaoscarbon), carbon fiber is enabled as well.
 
 ## Remarks
 
